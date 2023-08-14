@@ -1,3 +1,15 @@
+# Text-Operations - Unleash the Power of Words!
+
+Welcome to Text-Operations, a dynamic React application that empowers you to transform and analyze text in exciting ways. Whether you're a writer, editor, or just someone who loves playing with words, Text-Operations is your go-to tool for exploring the art of language manipulation.
+
+## Key Features
+
+- **Case Conversion**: Easily switch between uppercase and lowercase formatting for your text. Transform sentences into captivating headlines or adjust text to your desired style with a single click.
+
+- **Reading Time Estimation**: Discover the estimated reading time for your content. Perfect for bloggers, content creators, and anyone looking to engage their audience effectively.
+
+- **Word and Character Count**: Get instant feedback on the number of words and characters in your text. Whether you're meeting a word limit or simply curious about your content's length, TextUtils has you covered.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
